@@ -15,6 +15,7 @@
     "babel-preset-stage-1": "^6.5.0",
     "css-loader": "^0.23.1",
     "d3": "^3.5.16",
+    "graph-scroll": "0.0.1",
     "style-loader": "^0.13.0",
     "webpack": "^1.12.14"
   }
